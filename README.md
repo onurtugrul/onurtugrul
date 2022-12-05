@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @onurtugrul
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Onur
+- 👀 I’m interested in frontend developer
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on JS
+- 📫 How to reach me onurtugrul.to@hotmail.com
 
 <!---
 onurtugrul/onurtugrul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
